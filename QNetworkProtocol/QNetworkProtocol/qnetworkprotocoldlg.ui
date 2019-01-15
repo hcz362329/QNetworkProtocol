@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>QNetworkProtocolDlgClass</class>
+ <widget class="QDialog" name="QNetworkProtocolDlgClass" >
+  <property name="objectName" >
+   <string notr="true">QNetworkProtocolDlgClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>QNetworkProtocolDlg</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="qnetworkprotocoldlg.qrc"/>
+ </resources>
+ <connections/>
+</UI>
